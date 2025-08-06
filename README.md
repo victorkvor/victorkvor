@@ -90,6 +90,6 @@ I'm a final-year Computer Science student with a keen interest in cybersecurity.
 ---
 <div align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=victorkvor&icon=1&color=11" alt="Visit Count">
+    <img src="https://komarev.com/ghpvc/?username=victorkvor&label=Profile%20views&color=0e75b6&style=flat" alt="visitor count" />
   </a>
 </div>
