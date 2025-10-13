@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 About Me
-I'm a final-year Computer Science student with a keen interest in cybersecurity. I enjoy facing complex problems, solving CTFs, and securing systems. I'm quite skilled in programming languages like C, C++, Java, and web development. I am also familiar with networking, system security, and system administration.
+I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackling complex challenges, solving CTFs, and strengthening system security. Skilled in C/C++, Java, and web development, and familiar with networking, system administration, and information security.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victorkvor) 
@@ -14,12 +14,12 @@ I'm a final-year Computer Science student with a keen interest in cybersecurity.
 <div align="center">
   <h3>🎓 Education</h3>
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <!-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> -->
+  <!--  <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> -->
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PicoCTF-555?style=for-the-badge&logo=pandora&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/-PicoCTF-555?style=for-the-badge&logo=pandora&logoColor=white" /> -->
+  <!-- <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /> -->
 </div>
 
 <div align="center">
