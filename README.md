@@ -48,9 +48,9 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
 
 <div align="center">
   <h3>🛡️ Cybersecurity</h3>
-  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
+  <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elasticsearch" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
