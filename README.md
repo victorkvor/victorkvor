@@ -4,28 +4,34 @@
   </a>
 </div>
 
-## 💫 About Me
+## 💫 ᴀʙᴏᴜᴛ ᴍᴇ
+<table>
+<tr>
+<td>
 I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackling complex challenges, solving CTFs, and strengthening system security. Skilled in C/C++, Java, and web development, and familiar with networking, system administration, and information security.
+</td>
+</tr>
+</table>
 <div align="center">
   <a href="https://linkedin.com/in/victorkvor">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
   </a>
-</pdiv>
+</div>
 
-## 💻 Tech Stack
+## 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
 <div align="center">
-  <h3>🎓 Education</h3>
+  <h3>🎓 ᴇᴅᴜᴄᴀᴛɪᴏɴ</h3>
+  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  <!--  <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> -->
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /> -->
-  <!--  <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" /> -->
-  <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/-HackerOne-%23494649?style=for-the-badge&logo=hackerone&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/-PicoCTF-555?style=for-the-badge&logo=pandora&logoColor=white" /> -->
   <!-- <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" /> -->
 </div>
 
 <div align="center">
-  <h3>👨🏻‍💻 Languages & SCM</h3>
+  <h3>👨🏻‍💻 ʟᴀɴɢᴜᴀɢᴇꜱ & ꜱᴄᴍ</h3>
   <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
       <img
@@ -36,7 +42,7 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
 </div>
 
 <div align="center">
-  <h3>🌐 Web & Databases</h3>
+  <h3>🌐 ᴡᴇʙ & ᴅᴀᴛᴀʙᴀꜱᴇꜱ</h3>
   <p align="center">
     <a href="https://go-skill-icons.vercel.app/">
       <img
@@ -47,7 +53,7 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
 </div>
 
 <div align="center">
-  <h3>🛡️ Cybersecurity</h3>
+  <h3>🛡️ ᴄʏʙᴇʀꜱᴇᴄᴜʀɪᴛʏ</h3>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elastic" />
@@ -58,7 +64,7 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
   <img src="https://img.shields.io/badge/-x32dbg%2Fx64dbg-CA4425?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBpbWFnZS1yZW5kZXJpbmc9Im9wdGltaXplUXVhbGl0eSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMTI1IDFjMTYgMCAyNiA4IDMxIDI0IDI5IDEwIDM2IDMwIDIzIDU4LTEwIDktMjIgMTMtMzUgMTMtMTcgMS0zNCAwLTUwLTMtMTctNS0yNS0xNi0yNC0zMyAwLTExIDQtMTkgMTItMjYgNS00IDExLTcgMTgtOSAzLTE0IDExLTIyIDI1LTI0WiIvPjxwYXRoIGQ9Ik0yNTYgMTMzdjEwbC02IDQtNDcgMS0zIDE0YzMyIDExIDQ3IDM0IDQ1IDY5LTYgNy0xMiA3LTE4IDEgMC0xOC02LTMzLTE5LTQ0LTUtMy0xMC02LTE2LTdsLTIyIDI1Yy0xMCA4LTIxIDE0LTMzIDE3bC0xLTg1Yy02LTE2LTExLTE2LTE3IDB2ODVjLTEzLTMtMjQtOS0zMy0xN2wtMjMtMjVjLTE1IDQtMjYgMTMtMzEgMjlsLTQgMjJjLTYgNi0xMiA2LTE4LTEtMi0zNSAxMy01OCA0Ni02OWwtMy0xNC00Ny0xLTYtNHYtMTBjMS0yIDItNCA1LTVoNDZsLTEtMTdhNzkgNzkgMCAwIDEtMzEtNjJWMzdjMy04IDgtMTAgMTYtN2w0IDZjLTEgMTYgMyAzMiAxMiA0N2w3IDdjNDEgMjMgODQgMjYgMTI5IDcgMTUtOSAyNC0yMiAyNy0zOWwzLTI0YzYtNyAxMi03IDE4IDAgMyAyMi0yIDQzLTE1IDYzbC0xNSAxNHYxN2g0Nmw1IDVaIi8+PC9zdmc+&style=for-the-badge" />
 </div>
 
-<h2>📊 GitHub Stats</h2>
+<h2>📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=victorkvor&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
