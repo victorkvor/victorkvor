@@ -64,9 +64,9 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
     <img src="https://streak-stats.demolab.com?user=victorkvor&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
   </a><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/victorkvor/victorkvor/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/victorkvor/victorkvor/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/victorkvor/victorkvor/output/pacman-contribution-graph.svg">
   </picture>
 </div>
 
