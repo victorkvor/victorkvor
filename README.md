@@ -1,17 +1,8 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bungee+Spice&pause=800&center=true&vCenter=true&width=500&height=70&lines=+Hi+there%F0%9F%91%8B;I'm+Victor+Kravchuk+Vorkevych+" alt="Typing SVG">
-  </a>
-</div>
-
 ## 💫 ᴀʙᴏᴜᴛ ᴍᴇ
-<table>
-<tr>
-<td>
-I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackling complex challenges, solving CTFs, and strengthening system security. Skilled in C/C++, Java, and web development, and familiar with networking, system administration, and information security.
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
+</div>
+<br />
 <div align="center">
   <a href="https://linkedin.com/in/victorkvor">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
