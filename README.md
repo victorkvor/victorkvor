@@ -88,7 +88,7 @@
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2093024256/security-compliance-and-identity-fundamentals-600x6001926291303251167788.png" alt="AZ-900" style="width:120px;" />
+          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2093024256/security-compliance-and-identity-fundamentals-600x6001926291303251167788.png" alt="AZ-900" style="width:130px;" />
         </a>
       </td>
       <td align="center">
@@ -98,7 +98,7 @@
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1102602181/azure-data-fundamentals-600x60010537519379605356050.png" alt="DP-900" style="width:120px;" />
+          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1102602181/azure-data-fundamentals-600x60010537519379605356050.png" alt="DP-900" style="width:130px;" />
         </a>
       </td>
       <td align="center">
