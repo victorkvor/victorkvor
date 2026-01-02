@@ -8,7 +8,7 @@
 I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackling complex challenges, solving CTFs, and strengthening system security. Skilled in C/C++, Java, and web development, and familiar with networking, system administration, and information security.
 <div align="center">
   <a href="https://linkedin.com/in/victorkvor">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff" />
   </a>
 </pdiv>
 
@@ -50,7 +50,7 @@ I’m a Computer Engineer with a strong interest in cybersecurity. I enjoy tackl
   <h3>🛡️ Cybersecurity</h3>
   <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
   <img src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch" />
+  <img src="https://img.shields.io/badge/-Elastic-005571?style=for-the-badge&logo=elasticsearch" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
