@@ -1,4 +1,9 @@
-## 💫 ᴀʙᴏᴜᴛ ᴍᴇ
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg3bXZyOG55OTRuNXh1cXV2MG02ang0Nmdhd2JvNTJ6M2xvMGVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTRK8EYSTi9JsOCr6T/giphy.gif" width="50" align="middle">
+  <span>ᴀʙᴏᴜᴛ ᴍᴇ</span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg3bXZyOG55OTRuNXh1cXV2MG02ang0Nmdhd2JvNTJ6M2xvMGVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTRK8EYSTi9JsOCr6T/giphy.gif" width="50" align="middle">
+</h2>
+
 <div align="center">
   <img src="./assets/terminal.gif" alt="About Me Terminal GIF"/>
 </div>
@@ -9,7 +14,11 @@
   </a>
 </div>
 
-## 💻 ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThuM3d6cm51aDBuY3lsYXY1bHgwOHpyYmkxcTB0YnVnbDJ3ZTN2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40" align="middle">
+  <span>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThuM3d6cm51aDBuY3lsYXY1bHgwOHpyYmkxcTB0YnVnbDJ3ZTN2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40" align="middle">
+</h2>
 <div align="center">
   <h3>🎓 ᴇᴅᴜᴄᴀᴛɪᴏɴ</h3>
   <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
@@ -55,7 +64,11 @@
   <img src="https://img.shields.io/badge/-x32dbg%2Fx64dbg-CA4425?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGwtcnVsZT0iZXZlbm9kZCIgY2xpcC1ydWxlPSJldmVub2RkIiBpbWFnZS1yZW5kZXJpbmc9Im9wdGltaXplUXVhbGl0eSIgc2hhcGUtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIHRleHQtcmVuZGVyaW5nPSJnZW9tZXRyaWNQcmVjaXNpb24iIHZpZXdCb3g9IjAgMCAyNTYgMjU2Ij48cGF0aCBkPSJNMTI1IDFjMTYgMCAyNiA4IDMxIDI0IDI5IDEwIDM2IDMwIDIzIDU4LTEwIDktMjIgMTMtMzUgMTMtMTcgMS0zNCAwLTUwLTMtMTctNS0yNS0xNi0yNC0zMyAwLTExIDQtMTkgMTItMjYgNS00IDExLTcgMTgtOSAzLTE0IDExLTIyIDI1LTI0WiIvPjxwYXRoIGQ9Ik0yNTYgMTMzdjEwbC02IDQtNDcgMS0zIDE0YzMyIDExIDQ3IDM0IDQ1IDY5LTYgNy0xMiA3LTE4IDEgMC0xOC02LTMzLTE5LTQ0LTUtMy0xMC02LTE2LTdsLTIyIDI1Yy0xMCA4LTIxIDE0LTMzIDE3bC0xLTg1Yy02LTE2LTExLTE2LTE3IDB2ODVjLTEzLTMtMjQtOS0zMy0xN2wtMjMtMjVjLTE1IDQtMjYgMTMtMzEgMjlsLTQgMjJjLTYgNi0xMiA2LTE4LTEtMi0zNSAxMy01OCA0Ni02OWwtMy0xNC00Ny0xLTYtNHYtMTBjMS0yIDItNCA1LTVoNDZsLTEtMTdhNzkgNzkgMCAwIDEtMzEtNjJWMzdjMy04IDgtMTAgMTYtN2w0IDZjLTEgMTYgMyAzMiAxMiA0N2w3IDdjNDEgMjMgODQgMjYgMTI5IDcgMTUtOSAyNC0yMiAyNy0zOWwzLTI0YzYtNyAxMi03IDE4IDAgMyAyMi0yIDQzLTE1IDYzbC0xNSAxNHYxN2g0Nmw1IDVaIi8+PC9zdmc+&style=for-the-badge" />
 </div>
 
-<h2>📊 ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</h2>
+<h2 align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZyN25jMXdpdjd3Z3E0cHc1anVhM2lhdXEyMXZzNmtzcjNhcDR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fEj8oLjc7gwe78PoNL/giphy.gif" width="65" align="middle">
+  <span>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</span>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZyN25jMXdpdjd3Z3E0cHc1anVhM2lhdXEyMXZzNmtzcjNhcDR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fEj8oLjc7gwe78PoNL/giphy.gif" width="65" align="middle">
+</h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=victorkvor&theme=rising-sun&hide_border=false&mode=weekly" alt="GitHub Streak">
