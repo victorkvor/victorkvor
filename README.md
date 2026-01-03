@@ -71,79 +71,44 @@
 </h2>
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
-    <colgroup>
-      <col style="width:16.66%">
-      <col style="width:16.66%">
-      <col style="width:16.66%">
-      <col style="width:16.66%">
-      <col style="width:16.66%">
-      <col style="width:16.66%">
-    </colgroup>
-    <!-- ICON ROW -->
     <tr>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/sc-900.png" alt="SC-900" style="width:120px;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/az-900.png" alt="AZ-900" style="width:120px;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/ai-900.png" alt="AI-900" style="width:120px;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/dp-900.png" alt="DP-900" style="width:120px;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/ccna.png" alt="CCNA 200-301" style="width:120px;" />
-        </a>
-      </td>
-      <td align="center">
-        <a href="#">
-          <img src="./assets/badges/cisco_ceh.png" alt="CEH" style="width:120px" />
-        </a>
-      </td>
+      <td align="center" width="16%"><img src="./assets/badges/sc-900.png" width="100" /></td>
+      <td align="center" width="16%"><img src="./assets/badges/az-900.png" width="100" /></td>
+      <td align="center" width="16%"><img src="./assets/badges/ai-900.png" width="100" /></td>
+      <td align="center" width="16%"><img src="./assets/badges/dp-900.png" width="100" /></td>
+      <td align="center" width="16%"><img src="./assets/badges/ccna.png" width="100" /></td>
+      <td align="center" width="16%"><img src="./assets/badges/cisco_ceh.png" width="100" /></td>
     </tr>
-    <!-- TEXT ROW -->
     <tr>
-      <!-- Microsoft -->
       <td align="center" valign="top">
-        🗓️ <em>Jan 2025</em><br/>
-        🔗 <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/C4660812A3E03193?sharingId=71E1E35FB8EC0B99">Credential</a><br/>
-        <em>Security, compliance & identity fundamentals.</em>
+        <small>🗓️&nbsp;<b>Jan&nbsp;2025</b></small><br/>
+        <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/C4660812A3E03193"><small>Credential</small></a><br/>
+        <small><em>Security &<br/>Compliance</em></small>
       </td>
       <td align="center" valign="top">
-        🗓️ <em>Dec 2024</em><br/>
-        🔗 <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/1807FC68F65E9A73?sharingId=71E1E35FB8EC0B99">Credential</a><br/>
-        <em>Azure cloud concepts & core services.</em>
+        <small>🗓️&nbsp;<b>Dec&nbsp;2024</b></small><br/>
+        <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/1807FC68F65E9A73"><small>Credential</small></a><br/>
+        <small><em>Azure Cloud<br/>Concepts</em></small>
       </td>
       <td align="center" valign="top">
-        🗓️ <em>Dec 2024</em><br/>
-        🔗 <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/4541D7C015FEDDF6?sharingId=71E1E35FB8EC0B99">Credential</a><br/>
-        <em>AI & machine learning fundamentals.</em>
+        <small>🗓️&nbsp;<b>Dec&nbsp;2024</b></small><br/>
+        <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/4541D7C015FEDDF6"><small>Credential</small></a><br/>
+        <small><em>AI & Machine<br/>Learning</em></small>
       </td>
       <td align="center" valign="top">
-        🗓️ <em>Dec 2024</em><br/>
-        🔗 <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/8DD218C0AEFF4E3D?sharingId=71E1E35FB8EC0B99">Credential</a><br/>
-        <em>Core data concepts & analytics.</em>
+        <small>🗓️&nbsp;<b>Dec&nbsp;2024</b></small><br/>
+        <a href="https://learn.microsoft.com/api/credentials/share/es-es/victorkvor/8DD218C0AEFF4E3D"><small>Credential</small></a><br/>
+        <small><em>Core Data<br/>Concepts</em></small>
       </td>
       <td align="center" valign="top">
-        🗓️ <em>Sep 2025</em><br/>
-        🔗 <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/8af6b84c2a8d46f588fb530fa5e8c131">Credential</a><br/>
-        <em>Networking, routing & switching fundamentals.</em>
+        <small>🗓️&nbsp;<b>Sep&nbsp;2025</b></small><br/>
+        <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/8af6b84c2a8d46f588fb530fa5e8c131"><small>Credential</small></a><br/>
+        <small><em>Network<br/>Fundamentals</em></small>
       </td>
       <td align="center" valign="top">
-        🗓️ <em>Dec 2024</em><br/>
-        🔗 <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/af6e69cb1e7846a09d95ae7f20a02b00">Credential</a><br/>
-        <em>Ethical hacking & attack methodologies.</em>
+        <small>🗓️&nbsp;<b>Dec&nbsp;2024</b></small><br/>
+        <a href="https://cp.certmetrics.com/cisco/en/public/verify/credential/af6e69cb1e7846a09d95ae7f20a02b00"><small>Credential</small></a><br/>
+        <small><em>Ethical<br/>Hacking</em></small>
       </td>
     </tr>
   </table>
