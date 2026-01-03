@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg3bXZyOG55OTRuNXh1cXV2MG02ang0Nmdhd2JvNTJ6M2xvMGVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTRK8EYSTi9JsOCr6T/giphy.gif" width="50" align="middle">
+  <img src="./assets/glitch.gif" width="50" align="middle">
   <span>ᴀʙᴏᴜᴛ ᴍᴇ</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHg3bXZyOG55OTRuNXh1cXV2MG02ang0Nmdhd2JvNTJ6M2xvMGVzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lTRK8EYSTi9JsOCr6T/giphy.gif" width="50" align="middle">
+  <img src="./assets/glitch.gif" width="50" align="middle">
 </h2>
 
 <div align="center">
@@ -15,9 +15,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThuM3d6cm51aDBuY3lsYXY1bHgwOHpyYmkxcTB0YnVnbDJ3ZTN2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40" align="middle">
+  <img src="./assets/binary.gif" width="40" align="middle">
   <span>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThuM3d6cm51aDBuY3lsYXY1bHgwOHpyYmkxcTB0YnVnbDJ3ZTN2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="40" align="middle">
+  <img src="./assets/binary.gif" width="40" align="middle">
 </h2>
 <div align="center">
   <h3>🎓 ᴇᴅᴜᴄᴀᴛɪᴏɴ</h3>
@@ -65,9 +65,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9ieWF2NTRpeXp6MHIweXE4bG52bmkybnU2M25pN3dkMTZib211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9vZTqHZtEkzNgsbx0J/giphy.gif" width="40" align="middle">
+  <img src="./assets/medal.gif" width="40" align="middle">
   <span>ᴄᴇʀᴛɪꜰɪᴄᴀᴛɪᴏɴꜱ</span>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9ieWF2NTRpeXp6MHIweXE4bG52bmkybnU2M25pN3dkMTZib211aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9vZTqHZtEkzNgsbx0J/giphy.gif" width="40" align="middle">
+  <img src="./assets/medal.gif" width="40" align="middle">
 </h2>
 <div align="center">
   <table style="width:100%; table-layout:fixed;">
@@ -115,9 +115,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZyN25jMXdpdjd3Z3E0cHc1anVhM2lhdXEyMXZzNmtzcjNhcDR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fEj8oLjc7gwe78PoNL/giphy.gif" width="65" align="middle">
+  <img src="./assets/graph.gif" width="65" align="middle">
   <span>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</span>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXZyN25jMXdpdjd3Z3E0cHc1anVhM2lhdXEyMXZzNmtzcjNhcDR2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fEj8oLjc7gwe78PoNL/giphy.gif" width="65" align="middle">
+  <img src="./assets/graph.gif" width="65" align="middle">
 </h2>
 <div align="center">
   <a href="https://git.io/streak-stats">
