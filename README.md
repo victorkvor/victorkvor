@@ -83,32 +83,32 @@
     <tr>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2093024256/security-compliance-and-identity-fundamentals-600x6001926291303251167788.png" alt="SC-900" style="width:120px;" />
+          <img src="./assets/badges/sc-900.png" alt="SC-900" style="width:120px;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/2093024256/security-compliance-and-identity-fundamentals-600x6001926291303251167788.png" alt="AZ-900" style="width:130px;" />
+          <img src="./assets/badges/az-900.png" alt="AZ-900" style="width:120px;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1746771307/azure-ai-fundamentals-600x60015122646114520842826.png" alt="AI-900" style="width:120px;" />
+          <img src="./assets/badges/ai-900.png" alt="AI-900" style="width:120px;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://img-c.udemycdn.com/open-badges/v2/badge-class/1102602181/azure-data-fundamentals-600x60010537519379605356050.png" alt="DP-900" style="width:130px;" />
+          <img src="./assets/badges/dp-900.png" alt="DP-900" style="width:120px;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://images.credly.com/size/340x340/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png" alt="CCNA 200-301" style="width:120px;" />
+          <img src="./assets/badges/ccna.png" alt="CCNA 200-301" style="width:120px;" />
         </a>
       </td>
       <td align="center">
         <a href="#">
-          <img src="https://images.credly.com/size/680x680/images/c72cea65-b88a-4a72-bf44-dc41b04248b7/image.png" alt="CEH" style="width:100px;" />
+          <img src="./assets/badges/cisco_ceh.png" alt="CEH" style="width:120px" />
         </a>
       </td>
     </tr>
